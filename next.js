@@ -1,8 +1,8 @@
 function Home() {
   return (
     <div>
-      <h1>Welcome to My Website!</h1>
-      <p>This changes is made by Ashwini </p>
+      <h1>hello guyss!!</h1>
+      <p>This changes is made by Shrilatha </p>
     </div>
   );
 }
